@@ -9,7 +9,7 @@ import datetime
 import pytz
 
 # 봇 토큰을 여기에 입력하세요
-TOKEN = 'MTIzOTc1MjU1MzAwOTUxMjQ1OA.GG6KNY.E8XaXrMbwrQt4lFM1-1WiCvvJSm3wuSdKnZSuY'
+TOKEN = ''
 
 intents = discord.Intents.default()
 intents.message_content = True # 메시지 내용을 읽기 위한 권한 활성화
